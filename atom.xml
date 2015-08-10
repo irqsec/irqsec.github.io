@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[r00t-iq.com]]></title>
-  <link href="http://blog0.r00t-iq.com/atom.xml" rel="self"/>
-  <link href="http://blog0.r00t-iq.com/"/>
-  <updated>2015-08-10T18:09:00-05:00</updated>
-  <id>http://blog0.r00t-iq.com/</id>
-  <author>
-    <name><![CDATA[r00t]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+    <title><![CDATA[r00t-iq.com]]></title>
+    <link href="http://blog0.r00t-iq.com/atom.xml" rel="self"/>
+    <link href="http://blog0.r00t-iq.com/"/>
+    <updated>2015-08-10T18:14:40-05:00</updated>
+    <id>http://blog0.r00t-iq.com/</id>
+    <author>
+        <name><![CDATA[r00t]]></name>
+        
+    </author>
+    <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Second Test]]></title>
-    <link href="http://blog0.r00t-iq.com/blog/2015/08/10/second-test/"/>
-    <updated>2015-08-10T14:06:19-05:00</updated>
-    <id>http://blog0.r00t-iq.com/blog/2015/08/10/second-test</id>
-    <content type="html"><![CDATA[<p>This is test post,</p>
+    
+    <entry>
+        <title type="html"><![CDATA[Second Test]]></title>
+        <link href="http://blog0.r00t-iq.com/blog/2015/08/10/second-test/"/>
+        <updated>2015-08-10T14:06:19-05:00</updated>
+        <id>http://blog0.r00t-iq.com/blog/2015/08/10/second-test</id>
+        <content type="html"><![CDATA[<p>This is test post,</p>
 
 <p>Thanks,</p>
 ]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Just Started]]></title>
-    <link href="http://blog0.r00t-iq.com/blog/2015/08/10/just-started/"/>
-    <updated>2015-08-10T13:56:06-05:00</updated>
-    <id>http://blog0.r00t-iq.com/blog/2015/08/10/just-started</id>
-    <content type="html"><![CDATA[<p>Hello eveyone,</p>
+    </entry>
+    
+    <entry>
+        <title type="html"><![CDATA[Just Started]]></title>
+        <link href="http://blog0.r00t-iq.com/blog/2015/08/10/just-started/"/>
+        <updated>2015-08-10T13:56:06-05:00</updated>
+        <id>http://blog0.r00t-iq.com/blog/2015/08/10/just-started</id>
+        <content type="html"><![CDATA[<p>Hello eveyone,</p>
 
 <p>Today, I would like to tell you that I have started my blog, and I will post everything are releated to Network, Operating systems, and security.</p>
 
@@ -37,6 +37,6 @@
 
 <p>Regards,</p>
 ]]></content>
-  </entry>
-  
+    </entry>
+    
 </feed>

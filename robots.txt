@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://blog0.r00t-iq.com/sitemap.xml 
+Sitemap: http://blog0.r00t-iq.com/sitemap.xml
