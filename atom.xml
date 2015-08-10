@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://irqsec.github.io/atom.xml" rel="self"/>
-  <link href="http://irqsec.github.io/"/>
-  <updated>2015-08-10T13:53:59-05:00</updated>
-  <id>http://irqsec.github.io/</id>
+  <title><![CDATA[r00t-iq.com]]></title>
+  <link href="http://blog0.r00t-iq.com/atom.xml" rel="self"/>
+  <link href="http://blog0.r00t-iq.com/"/>
+  <updated>2015-08-10T13:55:41-05:00</updated>
+  <id>http://blog0.r00t-iq.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[r00t]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
