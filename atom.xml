@@ -4,7 +4,7 @@
   <title><![CDATA[r00t-iq.com]]></title>
   <link href="http://blog0.r00t-iq.com/atom.xml" rel="self"/>
   <link href="http://blog0.r00t-iq.com/"/>
-  <updated>2015-08-10T14:03:52-05:00</updated>
+  <updated>2015-08-10T14:06:53-05:00</updated>
   <id>http://blog0.r00t-iq.com/</id>
   <author>
     <name><![CDATA[r00t]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Test]]></title>
+    <link href="http://blog0.r00t-iq.com/blog/2015/08/10/second-test/"/>
+    <updated>2015-08-10T14:06:19-05:00</updated>
+    <id>http://blog0.r00t-iq.com/blog/2015/08/10/second-test</id>
+    <content type="html"><![CDATA[<p>This is test post,</p>
+
+<p>Thanks,</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Just Started]]></title>
